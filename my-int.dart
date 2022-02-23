@@ -1,4 +1,4 @@
 void main(){
-  int myInt = 35;
+  int myInt = 8;
   print ('Integer: $myInt');
 }
